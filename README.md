@@ -1,4 +1,4 @@
-# Medium-No-Member-Articles-
+# Medium-No-Member-Articles!
 Chrome Extension that will <b>remove all the member articles from the medium.com</b>
 
 
