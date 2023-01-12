@@ -1,5 +1,10 @@
 # Medium-No-Member-Articles-
-Chrome Extension that will remove all the member articles from the medium.com
+Chrome Extension that will <b>remove all the member articles from the medium.com</b>
+
+
+# Demo
+
+https://user-images.githubusercontent.com/11576342/212147782-2fd10a32-7f04-4d60-965b-da203771a07e.mov
 
 
 ### How to install
