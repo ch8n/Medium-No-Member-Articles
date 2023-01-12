@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "Medium No Member Article",
+    "version": "1.0",
+    "description": "Hides all the articles that are Member only",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.medium.com/*"
+            ],
+            "js": [
+                "contentScript.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "activeTab",
+        "*://*.medium.com/*"
+    ]
+}
